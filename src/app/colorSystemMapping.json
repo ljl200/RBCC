@@ -1,0 +1,1457 @@
+﻿{
+  "#FAF4C8": {
+    "heritage": "A01",
+    "palette": "T001",
+    "sequence": "001"
+  },
+  "#FFFFD5": {
+    "heritage": "A02",
+    "palette": "T002",
+    "sequence": "002"
+  },
+  "#FEFF8B": {
+    "heritage": "A03",
+    "palette": "T003",
+    "sequence": "003"
+  },
+  "#FBED56": {
+    "heritage": "A04",
+    "palette": "T004",
+    "sequence": "004"
+  },
+  "#F4D738": {
+    "heritage": "A05",
+    "palette": "T005",
+    "sequence": "005"
+  },
+  "#FEAC4C": {
+    "heritage": "A06",
+    "palette": "T006",
+    "sequence": "006"
+  },
+  "#FE8B4C": {
+    "heritage": "A07",
+    "palette": "T007",
+    "sequence": "007"
+  },
+  "#FFDA45": {
+    "heritage": "A08",
+    "palette": "T008",
+    "sequence": "008"
+  },
+  "#FF995B": {
+    "heritage": "A09",
+    "palette": "T009",
+    "sequence": "009"
+  },
+  "#F77C31": {
+    "heritage": "A10",
+    "palette": "T010",
+    "sequence": "010"
+  },
+  "#FFDD99": {
+    "heritage": "A11",
+    "palette": "T011",
+    "sequence": "011"
+  },
+  "#FE9F72": {
+    "heritage": "A12",
+    "palette": "T012",
+    "sequence": "012"
+  },
+  "#FFC365": {
+    "heritage": "A13",
+    "palette": "T013",
+    "sequence": "013"
+  },
+  "#FD543D": {
+    "heritage": "A14",
+    "palette": "T014",
+    "sequence": "014"
+  },
+  "#FFF365": {
+    "heritage": "A15",
+    "palette": "T015",
+    "sequence": "015"
+  },
+  "#FFFF9F": {
+    "heritage": "A16",
+    "palette": "T016",
+    "sequence": "016"
+  },
+  "#FFE36E": {
+    "heritage": "A17",
+    "palette": "T017",
+    "sequence": "017"
+  },
+  "#FEBE7D": {
+    "heritage": "A18",
+    "palette": "T018",
+    "sequence": "018"
+  },
+  "#FD7C72": {
+    "heritage": "A19",
+    "palette": "T019",
+    "sequence": "019"
+  },
+  "#FFD568": {
+    "heritage": "A20",
+    "palette": "T020",
+    "sequence": "020"
+  },
+  "#FFE395": {
+    "heritage": "A21",
+    "palette": "T021",
+    "sequence": "021"
+  },
+  "#F4F57D": {
+    "heritage": "A22",
+    "palette": "T022",
+    "sequence": "022"
+  },
+  "#E6C9B7": {
+    "heritage": "A23",
+    "palette": "T023",
+    "sequence": "023"
+  },
+  "#F7F8A2": {
+    "heritage": "A24",
+    "palette": "T024",
+    "sequence": "024"
+  },
+  "#FFD67D": {
+    "heritage": "A25",
+    "palette": "T025",
+    "sequence": "025"
+  },
+  "#FFC830": {
+    "heritage": "A26",
+    "palette": "T026",
+    "sequence": "026"
+  },
+  "#E6EE31": {
+    "heritage": "B01",
+    "palette": "T027",
+    "sequence": "027"
+  },
+  "#63F347": {
+    "heritage": "B02",
+    "palette": "T028",
+    "sequence": "028"
+  },
+  "#9EF780": {
+    "heritage": "B03",
+    "palette": "T029",
+    "sequence": "029"
+  },
+  "#5DE035": {
+    "heritage": "B04",
+    "palette": "T030",
+    "sequence": "030"
+  },
+  "#35E352": {
+    "heritage": "B05",
+    "palette": "T031",
+    "sequence": "031"
+  },
+  "#65E2A6": {
+    "heritage": "B06",
+    "palette": "T032",
+    "sequence": "032"
+  },
+  "#3DAF80": {
+    "heritage": "B07",
+    "palette": "T033",
+    "sequence": "033"
+  },
+  "#1C9C4F": {
+    "heritage": "B08",
+    "palette": "T034",
+    "sequence": "034"
+  },
+  "#27523A": {
+    "heritage": "B09",
+    "palette": "T035",
+    "sequence": "035"
+  },
+  "#95D3C2": {
+    "heritage": "B10",
+    "palette": "T036",
+    "sequence": "036"
+  },
+  "#5D722A": {
+    "heritage": "B11",
+    "palette": "T037",
+    "sequence": "037"
+  },
+  "#166F41": {
+    "heritage": "B12",
+    "palette": "T038",
+    "sequence": "038"
+  },
+  "#CAEB7B": {
+    "heritage": "B13",
+    "palette": "T039",
+    "sequence": "039"
+  },
+  "#ADE946": {
+    "heritage": "B14",
+    "palette": "T040",
+    "sequence": "040"
+  },
+  "#2E5132": {
+    "heritage": "B15",
+    "palette": "T041",
+    "sequence": "041"
+  },
+  "#C5ED9C": {
+    "heritage": "B16",
+    "palette": "T042",
+    "sequence": "042"
+  },
+  "#9BB13A": {
+    "heritage": "B17",
+    "palette": "T043",
+    "sequence": "043"
+  },
+  "#E6EE49": {
+    "heritage": "B18",
+    "palette": "T044",
+    "sequence": "044"
+  },
+  "#24B88C": {
+    "heritage": "B19",
+    "palette": "T045",
+    "sequence": "045"
+  },
+  "#C2F0CC": {
+    "heritage": "B20",
+    "palette": "T046",
+    "sequence": "046"
+  },
+  "#156A6B": {
+    "heritage": "B21",
+    "palette": "T047",
+    "sequence": "047"
+  },
+  "#0B3C43": {
+    "heritage": "B22",
+    "palette": "T048",
+    "sequence": "048"
+  },
+  "#303A21": {
+    "heritage": "B23",
+    "palette": "T049",
+    "sequence": "049"
+  },
+  "#EEFCA5": {
+    "heritage": "B24",
+    "palette": "T050",
+    "sequence": "050"
+  },
+  "#4E846D": {
+    "heritage": "B25",
+    "palette": "T051",
+    "sequence": "051"
+  },
+  "#8D7A35": {
+    "heritage": "B26",
+    "palette": "T052",
+    "sequence": "052"
+  },
+  "#CCE1AF": {
+    "heritage": "B27",
+    "palette": "T053",
+    "sequence": "053"
+  },
+  "#9EE5B9": {
+    "heritage": "B28",
+    "palette": "T054",
+    "sequence": "054"
+  },
+  "#C5E254": {
+    "heritage": "B29",
+    "palette": "T055",
+    "sequence": "055"
+  },
+  "#E2FCB1": {
+    "heritage": "B30",
+    "palette": "T056",
+    "sequence": "056"
+  },
+  "#B0E792": {
+    "heritage": "B31",
+    "palette": "T057",
+    "sequence": "057"
+  },
+  "#9CAB5A": {
+    "heritage": "B32",
+    "palette": "T058",
+    "sequence": "058"
+  },
+  "#E8FFE7": {
+    "heritage": "C01",
+    "palette": "T059",
+    "sequence": "059"
+  },
+  "#A9F9FC": {
+    "heritage": "C02",
+    "palette": "T060",
+    "sequence": "060"
+  },
+  "#A0E2FB": {
+    "heritage": "C03",
+    "palette": "T061",
+    "sequence": "061"
+  },
+  "#41CCFF": {
+    "heritage": "C04",
+    "palette": "T062",
+    "sequence": "062"
+  },
+  "#01ACEB": {
+    "heritage": "C05",
+    "palette": "T063",
+    "sequence": "063"
+  },
+  "#50AAF0": {
+    "heritage": "C06",
+    "palette": "T064",
+    "sequence": "064"
+  },
+  "#3677D2": {
+    "heritage": "C07",
+    "palette": "T065",
+    "sequence": "065"
+  },
+  "#0F54C0": {
+    "heritage": "C08",
+    "palette": "T066",
+    "sequence": "066"
+  },
+  "#324BCA": {
+    "heritage": "C09",
+    "palette": "T067",
+    "sequence": "067"
+  },
+  "#3EBCE2": {
+    "heritage": "C10",
+    "palette": "T068",
+    "sequence": "068"
+  },
+  "#28DDDE": {
+    "heritage": "C11",
+    "palette": "T069",
+    "sequence": "069"
+  },
+  "#1C334D": {
+    "heritage": "C12",
+    "palette": "T070",
+    "sequence": "070"
+  },
+  "#CDE8FF": {
+    "heritage": "C13",
+    "palette": "T071",
+    "sequence": "071"
+  },
+  "#D5FDFF": {
+    "heritage": "C14",
+    "palette": "T072",
+    "sequence": "072"
+  },
+  "#22C4C6": {
+    "heritage": "C15",
+    "palette": "T073",
+    "sequence": "073"
+  },
+  "#1557A8": {
+    "heritage": "C16",
+    "palette": "T074",
+    "sequence": "074"
+  },
+  "#04D1F6": {
+    "heritage": "C17",
+    "palette": "T075",
+    "sequence": "075"
+  },
+  "#1D3344": {
+    "heritage": "C18",
+    "palette": "T076",
+    "sequence": "076"
+  },
+  "#1887A2": {
+    "heritage": "C19",
+    "palette": "T077",
+    "sequence": "077"
+  },
+  "#176DAF": {
+    "heritage": "C20",
+    "palette": "T078",
+    "sequence": "078"
+  },
+  "#BEDDFF": {
+    "heritage": "C21",
+    "palette": "T079",
+    "sequence": "079"
+  },
+  "#67B4BE": {
+    "heritage": "C22",
+    "palette": "T080",
+    "sequence": "080"
+  },
+  "#C8E2FF": {
+    "heritage": "C23",
+    "palette": "T081",
+    "sequence": "081"
+  },
+  "#7CC4FF": {
+    "heritage": "C24",
+    "palette": "T082",
+    "sequence": "082"
+  },
+  "#A9E5E5": {
+    "heritage": "C25",
+    "palette": "T083",
+    "sequence": "083"
+  },
+  "#3CAED8": {
+    "heritage": "C26",
+    "palette": "T084",
+    "sequence": "084"
+  },
+  "#D3DFFA": {
+    "heritage": "C27",
+    "palette": "T085",
+    "sequence": "085"
+  },
+  "#BBCFED": {
+    "heritage": "C28",
+    "palette": "T086",
+    "sequence": "086"
+  },
+  "#34488E": {
+    "heritage": "C29",
+    "palette": "T087",
+    "sequence": "087"
+  },
+  "#AEB4F2": {
+    "heritage": "D01",
+    "palette": "T088",
+    "sequence": "088"
+  },
+  "#858EDD": {
+    "heritage": "D02",
+    "palette": "T089",
+    "sequence": "089"
+  },
+  "#2F54AF": {
+    "heritage": "D03",
+    "palette": "T090",
+    "sequence": "090"
+  },
+  "#182A84": {
+    "heritage": "D04",
+    "palette": "T091",
+    "sequence": "091"
+  },
+  "#B843C5": {
+    "heritage": "D05",
+    "palette": "T092",
+    "sequence": "092"
+  },
+  "#AC7BDE": {
+    "heritage": "D06",
+    "palette": "T093",
+    "sequence": "093"
+  },
+  "#8854B3": {
+    "heritage": "D07",
+    "palette": "T094",
+    "sequence": "094"
+  },
+  "#E2D3FF": {
+    "heritage": "D08",
+    "palette": "T095",
+    "sequence": "095"
+  },
+  "#D5B9F8": {
+    "heritage": "D09",
+    "palette": "T096",
+    "sequence": "096"
+  },
+  "#361851": {
+    "heritage": "D10",
+    "palette": "T097",
+    "sequence": "097"
+  },
+  "#B9BAE1": {
+    "heritage": "D11",
+    "palette": "T098",
+    "sequence": "098"
+  },
+  "#DE9AD4": {
+    "heritage": "D12",
+    "palette": "T099",
+    "sequence": "099"
+  },
+  "#B90095": {
+    "heritage": "D13",
+    "palette": "T100",
+    "sequence": "100"
+  },
+  "#8B279B": {
+    "heritage": "D14",
+    "palette": "T101",
+    "sequence": "101"
+  },
+  "#2F1F90": {
+    "heritage": "D15",
+    "palette": "T102",
+    "sequence": "102"
+  },
+  "#E3E1EE": {
+    "heritage": "D16",
+    "palette": "T103",
+    "sequence": "103"
+  },
+  "#C4D4F6": {
+    "heritage": "D17",
+    "palette": "T104",
+    "sequence": "104"
+  },
+  "#A45EC7": {
+    "heritage": "D18",
+    "palette": "T105",
+    "sequence": "105"
+  },
+  "#D8C3D7": {
+    "heritage": "D19",
+    "palette": "T106",
+    "sequence": "106"
+  },
+  "#9C32B2": {
+    "heritage": "D20",
+    "palette": "T107",
+    "sequence": "107"
+  },
+  "#9A009B": {
+    "heritage": "D21",
+    "palette": "T108",
+    "sequence": "108"
+  },
+  "#333A95": {
+    "heritage": "D22",
+    "palette": "T109",
+    "sequence": "109"
+  },
+  "#EBDAFC": {
+    "heritage": "D23",
+    "palette": "T110",
+    "sequence": "110"
+  },
+  "#7786E5": {
+    "heritage": "D24",
+    "palette": "T111",
+    "sequence": "111"
+  },
+  "#494FC7": {
+    "heritage": "D25",
+    "palette": "T112",
+    "sequence": "112"
+  },
+  "#DFC2F8": {
+    "heritage": "D26",
+    "palette": "T113",
+    "sequence": "113"
+  },
+  "#FDD3CC": {
+    "heritage": "E01",
+    "palette": "T114",
+    "sequence": "114"
+  },
+  "#FEC0DF": {
+    "heritage": "E02",
+    "palette": "T115",
+    "sequence": "115"
+  },
+  "#FFB7E7": {
+    "heritage": "E03",
+    "palette": "T116",
+    "sequence": "116"
+  },
+  "#E8649E": {
+    "heritage": "E04",
+    "palette": "T117",
+    "sequence": "117"
+  },
+  "#F551A2": {
+    "heritage": "E05",
+    "palette": "T118",
+    "sequence": "118"
+  },
+  "#F13D74": {
+    "heritage": "E06",
+    "palette": "T119",
+    "sequence": "119"
+  },
+  "#C63478": {
+    "heritage": "E07",
+    "palette": "T120",
+    "sequence": "120"
+  },
+  "#FFDBE9": {
+    "heritage": "E08",
+    "palette": "T121",
+    "sequence": "121"
+  },
+  "#E970CC": {
+    "heritage": "E09",
+    "palette": "T122",
+    "sequence": "122"
+  },
+  "#D33793": {
+    "heritage": "E10",
+    "palette": "T123",
+    "sequence": "123"
+  },
+  "#FCDDD2": {
+    "heritage": "E11",
+    "palette": "T124",
+    "sequence": "124"
+  },
+  "#F78FC3": {
+    "heritage": "E12",
+    "palette": "T125",
+    "sequence": "125"
+  },
+  "#B5006D": {
+    "heritage": "E13",
+    "palette": "T126",
+    "sequence": "126"
+  },
+  "#FFD1BA": {
+    "heritage": "E14",
+    "palette": "T127",
+    "sequence": "127"
+  },
+  "#F8C7C9": {
+    "heritage": "E15",
+    "palette": "T128",
+    "sequence": "128"
+  },
+  "#FFF3EB": {
+    "heritage": "E16",
+    "palette": "T129",
+    "sequence": "129"
+  },
+  "#FFE2EA": {
+    "heritage": "E17",
+    "palette": "T130",
+    "sequence": "130"
+  },
+  "#FFC7DB": {
+    "heritage": "E18",
+    "palette": "T131",
+    "sequence": "131"
+  },
+  "#FEBAD5": {
+    "heritage": "E19",
+    "palette": "T132",
+    "sequence": "132"
+  },
+  "#D8C7D1": {
+    "heritage": "E20",
+    "palette": "T133",
+    "sequence": "133"
+  },
+  "#BD9DA1": {
+    "heritage": "E21",
+    "palette": "T134",
+    "sequence": "134"
+  },
+  "#B785A1": {
+    "heritage": "E22",
+    "palette": "T135",
+    "sequence": "135"
+  },
+  "#937A8D": {
+    "heritage": "E23",
+    "palette": "T136",
+    "sequence": "136"
+  },
+  "#E1BCE8": {
+    "heritage": "E24",
+    "palette": "T137",
+    "sequence": "137"
+  },
+  "#FD957B": {
+    "heritage": "F01",
+    "palette": "T138",
+    "sequence": "138"
+  },
+  "#FC3D46": {
+    "heritage": "F02",
+    "palette": "T139",
+    "sequence": "139"
+  },
+  "#F74941": {
+    "heritage": "F03",
+    "palette": "T140",
+    "sequence": "140"
+  },
+  "#FC283C": {
+    "heritage": "F04",
+    "palette": "T141",
+    "sequence": "141"
+  },
+  "#E7002F": {
+    "heritage": "F05",
+    "palette": "T142",
+    "sequence": "142"
+  },
+  "#943630": {
+    "heritage": "F06",
+    "palette": "T143",
+    "sequence": "143"
+  },
+  "#971937": {
+    "heritage": "F07",
+    "palette": "T144",
+    "sequence": "144"
+  },
+  "#BC0028": {
+    "heritage": "F08",
+    "palette": "T145",
+    "sequence": "145"
+  },
+  "#E2677A": {
+    "heritage": "F09",
+    "palette": "T146",
+    "sequence": "146"
+  },
+  "#8A4526": {
+    "heritage": "F10",
+    "palette": "T147",
+    "sequence": "147"
+  },
+  "#5A2121": {
+    "heritage": "F11",
+    "palette": "T148",
+    "sequence": "148"
+  },
+  "#FD4E6A": {
+    "heritage": "F12",
+    "palette": "T149",
+    "sequence": "149"
+  },
+  "#F35744": {
+    "heritage": "F13",
+    "palette": "T150",
+    "sequence": "150"
+  },
+  "#FFA9AD": {
+    "heritage": "F14",
+    "palette": "T151",
+    "sequence": "151"
+  },
+  "#D30022": {
+    "heritage": "F15",
+    "palette": "T152",
+    "sequence": "152"
+  },
+  "#FEC2A6": {
+    "heritage": "F16",
+    "palette": "T153",
+    "sequence": "153"
+  },
+  "#E69C79": {
+    "heritage": "F17",
+    "palette": "T154",
+    "sequence": "154"
+  },
+  "#D37C46": {
+    "heritage": "F18",
+    "palette": "T155",
+    "sequence": "155"
+  },
+  "#C1444A": {
+    "heritage": "F19",
+    "palette": "T156",
+    "sequence": "156"
+  },
+  "#CD9391": {
+    "heritage": "F20",
+    "palette": "T157",
+    "sequence": "157"
+  },
+  "#F7B4C6": {
+    "heritage": "F21",
+    "palette": "T158",
+    "sequence": "158"
+  },
+  "#FDC0D0": {
+    "heritage": "F22",
+    "palette": "T159",
+    "sequence": "159"
+  },
+  "#F67E66": {
+    "heritage": "F23",
+    "palette": "T160",
+    "sequence": "160"
+  },
+  "#E698AA": {
+    "heritage": "F24",
+    "palette": "T161",
+    "sequence": "161"
+  },
+  "#E54B4F": {
+    "heritage": "F25",
+    "palette": "T162",
+    "sequence": "162"
+  },
+  "#FFE2CE": {
+    "heritage": "G01",
+    "palette": "T163",
+    "sequence": "163"
+  },
+  "#FFC4AA": {
+    "heritage": "G02",
+    "palette": "T164",
+    "sequence": "164"
+  },
+  "#F4C3A5": {
+    "heritage": "G03",
+    "palette": "T165",
+    "sequence": "165"
+  },
+  "#E1B383": {
+    "heritage": "G04",
+    "palette": "T166",
+    "sequence": "166"
+  },
+  "#EDB045": {
+    "heritage": "G05",
+    "palette": "T167",
+    "sequence": "167"
+  },
+  "#E99C17": {
+    "heritage": "G06",
+    "palette": "T168",
+    "sequence": "168"
+  },
+  "#9D5B3E": {
+    "heritage": "G07",
+    "palette": "T169",
+    "sequence": "169"
+  },
+  "#753832": {
+    "heritage": "G08",
+    "palette": "T170",
+    "sequence": "170"
+  },
+  "#E6B483": {
+    "heritage": "G09",
+    "palette": "T171",
+    "sequence": "171"
+  },
+  "#D98C39": {
+    "heritage": "G10",
+    "palette": "T172",
+    "sequence": "172"
+  },
+  "#E0C593": {
+    "heritage": "G11",
+    "palette": "T173",
+    "sequence": "173"
+  },
+  "#FFC890": {
+    "heritage": "G12",
+    "palette": "T174",
+    "sequence": "174"
+  },
+  "#B7714A": {
+    "heritage": "G13",
+    "palette": "T175",
+    "sequence": "175"
+  },
+  "#8D614C": {
+    "heritage": "G14",
+    "palette": "T176",
+    "sequence": "176"
+  },
+  "#FCF9E0": {
+    "heritage": "G15",
+    "palette": "T177",
+    "sequence": "177"
+  },
+  "#F2D9BA": {
+    "heritage": "G16",
+    "palette": "T178",
+    "sequence": "178"
+  },
+  "#78524B": {
+    "heritage": "G17",
+    "palette": "T179",
+    "sequence": "179"
+  },
+  "#FFE4CC": {
+    "heritage": "G18",
+    "palette": "T180",
+    "sequence": "180"
+  },
+  "#E07935": {
+    "heritage": "G19",
+    "palette": "T181",
+    "sequence": "181"
+  },
+  "#A94023": {
+    "heritage": "G20",
+    "palette": "T182",
+    "sequence": "182"
+  },
+  "#B88558": {
+    "heritage": "G21",
+    "palette": "T183",
+    "sequence": "183"
+  },
+  "#FDFBFF": {
+    "heritage": "H01",
+    "palette": "T184",
+    "sequence": "184"
+  },
+  "#FEFFFF": {
+    "heritage": "H02",
+    "palette": "T185",
+    "sequence": "185"
+  },
+  "#B6B1BA": {
+    "heritage": "H03",
+    "palette": "T186",
+    "sequence": "186"
+  },
+  "#89858C": {
+    "heritage": "H04",
+    "palette": "T187",
+    "sequence": "187"
+  },
+  "#48464E": {
+    "heritage": "H05",
+    "palette": "T188",
+    "sequence": "188"
+  },
+  "#2F2B2F": {
+    "heritage": "H06",
+    "palette": "T189",
+    "sequence": "189"
+  },
+  "#000000": {
+    "heritage": "H07",
+    "palette": "T190",
+    "sequence": "190"
+  },
+  "#E7D6DB": {
+    "heritage": "H08",
+    "palette": "T191",
+    "sequence": "191"
+  },
+  "#EDEDED": {
+    "heritage": "H09",
+    "palette": "T192",
+    "sequence": "192"
+  },
+  "#EEE9EA": {
+    "heritage": "H10",
+    "palette": "T193",
+    "sequence": "193"
+  },
+  "#CECDD5": {
+    "heritage": "H11",
+    "palette": "T194",
+    "sequence": "194"
+  },
+  "#FFF5ED": {
+    "heritage": "H12",
+    "palette": "T195",
+    "sequence": "195"
+  },
+  "#F5ECD2": {
+    "heritage": "H13",
+    "palette": "T196",
+    "sequence": "196"
+  },
+  "#CFD7D3": {
+    "heritage": "H14",
+    "palette": "T197",
+    "sequence": "197"
+  },
+  "#98A6A8": {
+    "heritage": "H15",
+    "palette": "T198",
+    "sequence": "198"
+  },
+  "#1D1414": {
+    "heritage": "H16",
+    "palette": "T199",
+    "sequence": "199"
+  },
+  "#F1EDED": {
+    "heritage": "H17",
+    "palette": "T200",
+    "sequence": "200"
+  },
+  "#FFFDF0": {
+    "heritage": "H18",
+    "palette": "T201",
+    "sequence": "201"
+  },
+  "#F6EFE2": {
+    "heritage": "H19",
+    "palette": "T202",
+    "sequence": "202"
+  },
+  "#949FA3": {
+    "heritage": "H20",
+    "palette": "T203",
+    "sequence": "203"
+  },
+  "#FFFBE1": {
+    "heritage": "H21",
+    "palette": "T204",
+    "sequence": "204"
+  },
+  "#CACAD4": {
+    "heritage": "H22",
+    "palette": "T205",
+    "sequence": "205"
+  },
+  "#9A9D94": {
+    "heritage": "H23",
+    "palette": "T206",
+    "sequence": "206"
+  },
+  "#BCC6B8": {
+    "heritage": "M01",
+    "palette": "T207",
+    "sequence": "207"
+  },
+  "#8AA386": {
+    "heritage": "M02",
+    "palette": "T208",
+    "sequence": "208"
+  },
+  "#697D80": {
+    "heritage": "M03",
+    "palette": "T209",
+    "sequence": "209"
+  },
+  "#E3D2BC": {
+    "heritage": "M04",
+    "palette": "T210",
+    "sequence": "210"
+  },
+  "#D0CCAA": {
+    "heritage": "M05",
+    "palette": "T211",
+    "sequence": "211"
+  },
+  "#B0A782": {
+    "heritage": "M06",
+    "palette": "T212",
+    "sequence": "212"
+  },
+  "#B4A497": {
+    "heritage": "M07",
+    "palette": "T213",
+    "sequence": "213"
+  },
+  "#B38281": {
+    "heritage": "M08",
+    "palette": "T214",
+    "sequence": "214"
+  },
+  "#A58767": {
+    "heritage": "M09",
+    "palette": "T215",
+    "sequence": "215"
+  },
+  "#C5B2BC": {
+    "heritage": "M10",
+    "palette": "T216",
+    "sequence": "216"
+  },
+  "#9F7594": {
+    "heritage": "M11",
+    "palette": "T217",
+    "sequence": "217"
+  },
+  "#644749": {
+    "heritage": "M12",
+    "palette": "T218",
+    "sequence": "218"
+  },
+  "#D19066": {
+    "heritage": "M13",
+    "palette": "T219",
+    "sequence": "219"
+  },
+  "#C77362": {
+    "heritage": "M14",
+    "palette": "T220",
+    "sequence": "220"
+  },
+  "#757D78": {
+    "heritage": "M15",
+    "palette": "T221",
+    "sequence": "221"
+  },
+  "#FCF7F8": {
+    "heritage": "P01",
+    "palette": "T222",
+    "sequence": "222"
+  },
+  "#B0A9AC": {
+    "heritage": "P02",
+    "palette": "T223",
+    "sequence": "223"
+  },
+  "#AFDCAB": {
+    "heritage": "P03",
+    "palette": "T224",
+    "sequence": "224"
+  },
+  "#FEA49F": {
+    "heritage": "P04",
+    "palette": "T225",
+    "sequence": "225"
+  },
+  "#EE8C3E": {
+    "heritage": "P05",
+    "palette": "T226",
+    "sequence": "226"
+  },
+  "#5FD0A7": {
+    "heritage": "P06",
+    "palette": "T227",
+    "sequence": "227"
+  },
+  "#EB9270": {
+    "heritage": "P07",
+    "palette": "T228",
+    "sequence": "228"
+  },
+  "#F0D958": {
+    "heritage": "P08",
+    "palette": "T229",
+    "sequence": "229"
+  },
+  "#D9D9D9": {
+    "heritage": "P09",
+    "palette": "T230",
+    "sequence": "230"
+  },
+  "#D9C7EA": {
+    "heritage": "P10",
+    "palette": "T231",
+    "sequence": "231"
+  },
+  "#F3ECC9": {
+    "heritage": "P11",
+    "palette": "T232",
+    "sequence": "232"
+  },
+  "#E6EEF2": {
+    "heritage": "P12",
+    "palette": "T233",
+    "sequence": "233"
+  },
+  "#AACBEF": {
+    "heritage": "P13",
+    "palette": "T234",
+    "sequence": "234"
+  },
+  "#337680": {
+    "heritage": "P14",
+    "palette": "T235",
+    "sequence": "235"
+  },
+  "#668575": {
+    "heritage": "P15",
+    "palette": "T236",
+    "sequence": "236"
+  },
+  "#FEBF45": {
+    "heritage": "P16",
+    "palette": "T237",
+    "sequence": "237"
+  },
+  "#FEA324": {
+    "heritage": "P17",
+    "palette": "T238",
+    "sequence": "238"
+  },
+  "#FEB89F": {
+    "heritage": "P18",
+    "palette": "T239",
+    "sequence": "239"
+  },
+  "#FFFEEC": {
+    "heritage": "P19",
+    "palette": "T240",
+    "sequence": "240"
+  },
+  "#FEBECF": {
+    "heritage": "P20",
+    "palette": "T241",
+    "sequence": "241"
+  },
+  "#ECBEBF": {
+    "heritage": "P21",
+    "palette": "T242",
+    "sequence": "242"
+  },
+  "#E4A89F": {
+    "heritage": "P22",
+    "palette": "T243",
+    "sequence": "243"
+  },
+  "#A56268": {
+    "heritage": "P23",
+    "palette": "T244",
+    "sequence": "244"
+  },
+  "#F2A5E8": {
+    "heritage": "Q01",
+    "palette": "T245",
+    "sequence": "245"
+  },
+  "#E9EC91": {
+    "heritage": "Q02",
+    "palette": "T246",
+    "sequence": "246"
+  },
+  "#FFFF00": {
+    "heritage": "Q03",
+    "palette": "T247",
+    "sequence": "247"
+  },
+  "#FFEBFA": {
+    "heritage": "Q04",
+    "palette": "T248",
+    "sequence": "248"
+  },
+  "#76CEDE": {
+    "heritage": "Q05",
+    "palette": "T249",
+    "sequence": "249"
+  },
+  "#D50D21": {
+    "heritage": "R01",
+    "palette": "T250",
+    "sequence": "250"
+  },
+  "#F92F83": {
+    "heritage": "R02",
+    "palette": "T251",
+    "sequence": "251"
+  },
+  "#FD8324": {
+    "heritage": "R03",
+    "palette": "T252",
+    "sequence": "252"
+  },
+  "#F8EC31": {
+    "heritage": "R04",
+    "palette": "T253",
+    "sequence": "253"
+  },
+  "#35C75B": {
+    "heritage": "R05",
+    "palette": "T254",
+    "sequence": "254"
+  },
+  "#238891": {
+    "heritage": "R06",
+    "palette": "T255",
+    "sequence": "255"
+  },
+  "#19779D": {
+    "heritage": "R07",
+    "palette": "T256",
+    "sequence": "256"
+  },
+  "#1A60C3": {
+    "heritage": "R08",
+    "palette": "T257",
+    "sequence": "257"
+  },
+  "#9A56B4": {
+    "heritage": "R09",
+    "palette": "T258",
+    "sequence": "258"
+  },
+  "#FFDB4C": {
+    "heritage": "R10",
+    "palette": "T259",
+    "sequence": "259"
+  },
+  "#FFEBFB": {
+    "heritage": "R11",
+    "palette": "T260",
+    "sequence": "260"
+  },
+  "#D8D5CE": {
+    "heritage": "R12",
+    "palette": "T261",
+    "sequence": "261"
+  },
+  "#55514C": {
+    "heritage": "R13",
+    "palette": "T262",
+    "sequence": "262"
+  },
+  "#9FE4DF": {
+    "heritage": "R14",
+    "palette": "T263",
+    "sequence": "263"
+  },
+  "#77CEE9": {
+    "heritage": "R15",
+    "palette": "T264",
+    "sequence": "264"
+  },
+  "#3ECFCA": {
+    "heritage": "R16",
+    "palette": "T265",
+    "sequence": "265"
+  },
+  "#4A867A": {
+    "heritage": "R17",
+    "palette": "T266",
+    "sequence": "266"
+  },
+  "#7FCD9D": {
+    "heritage": "R18",
+    "palette": "T267",
+    "sequence": "267"
+  },
+  "#CDE55D": {
+    "heritage": "R19",
+    "palette": "T268",
+    "sequence": "268"
+  },
+  "#E8C7B4": {
+    "heritage": "R20",
+    "palette": "T269",
+    "sequence": "269"
+  },
+  "#AD6F3C": {
+    "heritage": "R21",
+    "palette": "T270",
+    "sequence": "270"
+  },
+  "#6C372F": {
+    "heritage": "R22",
+    "palette": "T271",
+    "sequence": "271"
+  },
+  "#FEB872": {
+    "heritage": "R23",
+    "palette": "T272",
+    "sequence": "272"
+  },
+  "#F3C1C0": {
+    "heritage": "R24",
+    "palette": "T273",
+    "sequence": "273"
+  },
+  "#C9675E": {
+    "heritage": "R25",
+    "palette": "T274",
+    "sequence": "274"
+  },
+  "#D293BE": {
+    "heritage": "R26",
+    "palette": "T275",
+    "sequence": "275"
+  },
+  "#EA8CB1": {
+    "heritage": "R27",
+    "palette": "T276",
+    "sequence": "276"
+  },
+  "#9C87D6": {
+    "heritage": "R28",
+    "palette": "T277",
+    "sequence": "277"
+  },
+  "#FFFFFF": {
+    "heritage": "T01",
+    "palette": "T278",
+    "sequence": "278"
+  },
+  "#FD6FB4": {
+    "heritage": "Y01",
+    "palette": "T279",
+    "sequence": "279"
+  },
+  "#FEB481": {
+    "heritage": "Y02",
+    "palette": "T280",
+    "sequence": "280"
+  },
+  "#D7FAA0": {
+    "heritage": "Y03",
+    "palette": "T281",
+    "sequence": "281"
+  },
+  "#8BDBFA": {
+    "heritage": "Y04",
+    "palette": "T282",
+    "sequence": "282"
+  },
+  "#E987EA": {
+    "heritage": "Y05",
+    "palette": "T283",
+    "sequence": "283"
+  },
+  "#DAABB3": {
+    "heritage": "ZG1",
+    "palette": "T284",
+    "sequence": "284"
+  },
+  "#D6AA87": {
+    "heritage": "ZG2",
+    "palette": "T285",
+    "sequence": "285"
+  },
+  "#C1BD8D": {
+    "heritage": "ZG3",
+    "palette": "T286",
+    "sequence": "286"
+  },
+  "#96869F": {
+    "heritage": "ZG4",
+    "palette": "T287",
+    "sequence": "287"
+  },
+  "#8490A6": {
+    "heritage": "ZG5",
+    "palette": "T288",
+    "sequence": "288"
+  },
+  "#94BFE2": {
+    "heritage": "ZG6",
+    "palette": "T289",
+    "sequence": "289"
+  },
+  "#E2A9D2": {
+    "heritage": "ZG7",
+    "palette": "T290",
+    "sequence": "290"
+  },
+  "#AB91C0": {
+    "heritage": "ZG8",
+    "palette": "T291",
+    "sequence": "291"
+  }
+}

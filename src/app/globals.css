@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --font-title: "STKaiti", "KaiTi", "楷体", "华文楷体", serif;
+  --font-heading: "FZKai-Z03", "STKaiti", "KaiTi", "楷体", serif;
+  --font-body: "Microsoft YaHei", "微软雅黑", "PingFang SC", "Noto Sans CJK SC", sans-serif;
+  --font-ui: "FangSong", "STFangsong", "仿宋", "Songti SC", serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+  font-variant-east-asian: proportional-width;
+}
+
+html[lang="en"] {
+  --font-title: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --font-heading: "Segoe UI Variable Display", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Segoe UI Variable Text", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-ui: "Segoe UI Variable Text", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+h1 {
+  font-family: var(--font-title);
+  letter-spacing: 0.08em;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  letter-spacing: 0.04em;
+}
+
+button,
+input,
+textarea,
+select,
+label,
+nav {
+  font-family: var(--font-ui);
+}
+
+.home-pattern-scroll-track {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+  animation: home-pattern-scroll 34s linear infinite;
+}
+
+.home-pattern-scroll-set {
+  display: flex;
+  gap: 1rem;
+  padding-right: 1rem;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes home-pattern-scroll {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-pattern-scroll-track {
+    animation-duration: 90s;
+  }
+}

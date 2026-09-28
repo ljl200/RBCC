@@ -1,0 +1,34 @@
+{
+  "name": "豆阁",
+  "short_name": "豆阁",
+  "description": "豆阁 — AI 驱动的中华文创拼豆设计系统，主题元素提取、拼豆底稿生成、文创产品场景预览",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E8F4FD",
+  "theme_color": "#5CA4F5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshot-desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "zh-CN"
+}
